@@ -1,7 +1,7 @@
 {
   "name": "terminal-tab-fork",
   "main": "./lib/main",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "description": "A simple terminal for panes and docks. Forked from terminal-tab",
   "author": {
     "name": "Justin Mecham",
