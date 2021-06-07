@@ -12,7 +12,7 @@ describe('TerminalTab', () => {
 
   beforeEach(() => {
     workspaceElement = atom.views.getView(atom.workspace);
-    activationPromise = atom.packages.activatePackage('terminal-tab');
+    activationPromise = atom.packages.activatePackage('terminal-tab-fork');
   });
 
   describe('when the terminal:open event is triggered', () => {
