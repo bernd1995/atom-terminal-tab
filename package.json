@@ -22,8 +22,8 @@
     "tty",
     "xterm"
   ],
-  "homepage": "https://atom.io/packages/terminal-tab",
-  "repository": "https://github.com/jsmecham/atom-terminal-tab",
+  "homepage": "https://atom.io/packages/terminal-tab-fork",
+  "repository": "https://github.com/bernd1995/atom-terminal-tab",
   "license": "MIT",
   "engines": {
     "atom": ">=1.19.0 <2.0.0"
